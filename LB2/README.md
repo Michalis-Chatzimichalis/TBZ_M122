@@ -1,10 +1,10 @@
-ReadMe
+# ReadMe
 
--------------
-Event-Log verwalten
-Created by Michalis Apollon Chatzimichalis 
+
+Event-Log verwalten\
+Created by Michalis Apollon Chatzimichalis<br> 
 21.10.2019; 09:10
--------------
+
 
 1. Programm öffnen
 2. Auf "Event-Log anzeigen" klicken

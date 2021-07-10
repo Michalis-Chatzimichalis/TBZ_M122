@@ -13,7 +13,7 @@ In der zwei Ordner **LB1** und **LB2** befinden sich meine zwei Leistungsbeurtei
   - [Reflexion](#reflexion)
 
 ## Kompetenzen
-Da das Kompetenzraster von der [ICT-Berufsbildung AG](https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=122&noheader=1)
+Da das Kompetenzraster von der [ICT-Berufsbildung AG](https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=122&noheader=1).
 1. Zu automatisierende Funktion oder zu automatisierenden Ablauf mit den dazugehörigen Benutzerinteraktionen als Ablaufstruktur (z.B. Programmablaufplan) grafisch darstellen. 	
   	
     **Handlungsnotwendige Kenntnisse**
@@ -50,6 +50,8 @@ Da das Kompetenzraster von der [ICT-Berufsbildung AG](https://cf.ict-berufsbildu
 
 ## LB1 
 
+Meine Abgabe zur LB1 findet Ihr [hier](/LB1).
+
 ### ReadMe
 
 -------------
@@ -73,6 +75,8 @@ ODER
 
 
 ## LB2 
+
+Meine Abgabe zur LB2 findet Ihr [hier](/LB2).
 
 ### ReadMe
 

@@ -1,10 +1,9 @@
-ReadMe
+# ReadMe
 
--------------
-Website auswählen
-Created by Michalis Apollon Chatzimichalis 
+Website auswählen\
+Created by Michalis Apollon Chatzimichalis<br>
 02.09.2019; 10:55
--------------
+
 
 1. Öffne das Programm
 2. Klicke auf eine Schaltfläche unter einem Logo
