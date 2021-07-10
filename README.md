@@ -6,10 +6,11 @@ In der zwei Ordner **LB1** und **LB2** befinden sich meine zwei Leistungsbeurtei
 - [Modul 122 - Abläufe mit einer Scriptsprache automatisieren](#modul-122---abläufe-mit-einer-scriptsprache-automatisieren)
   - [Kompetenzen](#kompetenzen)
   - [LB1](#lb1)
-  - [02.09.2019; 10:55](#02092019-1055)
+    - [ReadMe](#readme)
   - [LB2](#lb2)
-  - [21.10.2019; 09:10](#21102019-0910)
+    - [ReadMe](#readme-1)
   - [Noten](#noten)
+  - [Reflexion](#reflexion)
 
 ## Kompetenzen
 Da das Kompetenzraster von der [ICT-Berufsbildung AG](https://cf.ict-berufsbildung.ch/modules.php?name=Mbk&a=20101&cmodnr=122&noheader=1)
@@ -49,13 +50,12 @@ Da das Kompetenzraster von der [ICT-Berufsbildung AG](https://cf.ict-berufsbildu
 
 ## LB1 
 
-ReadMe
+### ReadMe
 
 -------------
-Website auswählen
-Created by Michalis Apollon Chatzimichalis 
+Website auswählen\
+Created by Michalis Apollon Chatzimichalis<br> 
 02.09.2019; 10:55
--------------
 
 1. Öffne das Programm
 2. Klicke auf eine Schaltfläche unter einem Logo
@@ -73,13 +73,14 @@ ODER
 
 
 ## LB2 
-ReadMe
+
+### ReadMe
 
 -------------
-Event-Log verwalten
-Created by Michalis Apollon Chatzimichalis 
+Event-Log verwalten\
+Created by Michalis Apollon Chatzimichalis\
 21.10.2019; 09:10
--------------
+
 
 1. Programm öffnen
 2. Auf "Event-Log anzeigen" klicken
@@ -91,4 +92,7 @@ Created by Michalis Apollon Chatzimichalis
 
 ## Noten
 
-Die erreichten Noten für die LB1 war eine 4.6 und eine 3.7
+Die erreichten Noten für die LB1 war eine **4.6** und eine **3.7**
+
+## Reflexion
+Im Modul konnte ich mich mit PowerShell und PrimalForms vertiefen, jedoch entsprachen meine Abgabe nicht mein Potenzial. In Zukunft habe ich vor evtl. diese Projekt fertig zu machen, sodass es respektabel aussieht.
